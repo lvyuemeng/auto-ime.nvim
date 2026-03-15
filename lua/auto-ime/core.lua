@@ -1,5 +1,5 @@
 local M = {}
-local platform = require("ime-auto.platforms")
+local platform = require("auto-ime.platforms")
 
 function M.setup(opts)
 
